@@ -6,4 +6,4 @@ let B = parseFloat(lines.shift())
 
 let PROD = (A + B) / 2
 
-console.log(`PROD = ${PROD.toFixed(6)}`)
+console.log(`MEDIA = ${PROD.toFixed(6)}`) 
